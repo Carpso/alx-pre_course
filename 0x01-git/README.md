@@ -1,1 +1,1 @@
-ALX is really awesome!
+Alx is really Awesome!
